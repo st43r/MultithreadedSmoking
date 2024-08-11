@@ -57,3 +57,7 @@ Below are example commands for different build systems:
    ./MultithreadedSmoking
    ```
 
+   The program will run continuously until you abort it.
+
+2. **To stop the program you can press Ctrl+C.**
+
