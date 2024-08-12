@@ -49,7 +49,7 @@ Below are example commands for different build systems:
 
 ## Usage
 
-1. **Run the programm**:
+1. **Run the program**:
 
    After building, you can run the executable:
 
